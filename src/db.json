@@ -1,0 +1,18 @@
+[
+      {
+        "question": "How much for a tattoo?",
+        "answer": "150 euro hourly.",
+        "id": 1
+      },
+      {
+        "question": "How long do I have to wait to get an appointment?",
+        "answer": "About two months usually.",
+        "id": 2
+      },
+      {
+        "question": "Does it hurt to get tattoed?",
+        "answer": "Yes, but it's not that bad.",
+        "id": 3
+      }
+    ]
+  
